@@ -1,0 +1,31 @@
+.nav-pills .nav-link.active, .show>.nav-pills .nav-link {
+    color: #fff;
+    background-color: #0d254c;
+}
+
+.jumbotron {
+    background-image: url(stadium.jpeg);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+
+.jumbotron img {
+  width: 400px;
+}
+
+.btn  {
+  color: #648fcc;
+  background-color: #0d254c;
+}
+
+.h3 {
+  color: #0d254c;
+}
+
+body.grey {
+  color: grey
+}
+
+thead {
+color: #0d254c;
+}
